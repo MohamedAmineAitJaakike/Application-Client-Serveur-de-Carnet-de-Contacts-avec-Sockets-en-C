@@ -53,3 +53,6 @@ Pour compiler les fichiers source, exécutez les commandes suivantes :
 ```bash
 gcc -o server server.c -lpthread
 gcc -o client client.c
+## Auteur :
+
+Ce projet est développé et maintenu par **Mohamed Amine Ait Jaakike**.
