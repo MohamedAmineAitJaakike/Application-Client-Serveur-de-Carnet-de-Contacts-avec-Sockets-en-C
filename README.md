@@ -49,10 +49,10 @@ Le client permet aux utilisateurs de se connecter au serveur et d'effectuer les 
 ### Compilation :
 
 Pour compiler les fichiers source, exécutez les commandes suivantes :
+## Auteur :
+
+Ce projet est développé et maintenu par **Mohamed Amine Ait Jaakike**.
 
 ```bash
 gcc -o server server.c -lpthread
 gcc -o client client.c
-## Auteur :
-
-Ce projet est développé et maintenu par **Mohamed Amine Ait Jaakike**.
